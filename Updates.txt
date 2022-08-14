@@ -5,3 +5,5 @@ Updates when my new job takes priority over personal projects:
 - Creating Notion set up to organize learning
 
 - Start Azure Fundamental studies
+
+- More Azure Fundamental studying 8/14/22
