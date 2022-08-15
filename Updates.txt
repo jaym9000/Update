@@ -7,3 +7,5 @@ Updates when my new job takes priority over personal projects:
 - Start Azure Fundamental studies
 
 - More Azure Fundamental studying 8/14/22
+
+- Finished Microsoft Azure intro Cloud concepts
