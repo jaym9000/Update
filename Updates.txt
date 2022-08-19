@@ -14,3 +14,6 @@ Updates when my new job takes priority over personal projects:
 
 - Finished Microsoft Azure Fundamentals: Describe core Azure concepts
 
+- Last slide of Explore Azure compute services
+
+
