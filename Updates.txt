@@ -23,3 +23,5 @@ Updates when my new job takes priority over personal projects:
 - Finishing Use enterprise state roaming with Azure AD
 
 - Finished Migrate user files and settings in Microsoft 365 8/28/22
+
+- Started windows 10 course
