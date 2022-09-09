@@ -27,3 +27,5 @@ Updates when my new job takes priority over personal projects:
 - Started windows 10 course
 
 - Finished Identify security issues that can derail your move to Windows 10 and Microsoft 365 Apps
+
+- Started Review the security and compliance capabilities in Microsoft 365
