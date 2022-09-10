@@ -29,3 +29,5 @@ Updates when my new job takes priority over personal projects:
 - Finished Identify security issues that can derail your move to Windows 10 and Microsoft 365 Apps
 
 - Started Review the security and compliance capabilities in Microsoft 365
+
+- Today's 1 on 1 revamped my training. Will look to finish AZ-900 now before moving on to MD-100.
