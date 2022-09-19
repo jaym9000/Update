@@ -43,3 +43,6 @@ Updates when my new job takes priority over personal projects:
 - Almost done Describe Azure Containers 9/14/22
 
 - Half way through Describe Azure compute and networking services 9/17/22 
+
+- Started Describe application hosting options 9/19/22
+
