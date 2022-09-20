@@ -44,5 +44,6 @@ Updates when my new job takes priority over personal projects:
 
 - Half way through Describe Azure compute and networking services 9/17/22 
 
-- Started Describe application hosting options 9/19/22
+- Started Describe application hosting options 9/18/22
 
+- Done Describe Azure Virtual Networking 9/19/22
