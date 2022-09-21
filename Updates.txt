@@ -47,3 +47,5 @@ Updates when my new job takes priority over personal projects:
 - Started Describe application hosting options 9/18/22
 
 - Done Describe Azure Virtual Networking 9/19/22
+
+- Starting Exercise - Configure network access 9/20/22
